@@ -6,10 +6,6 @@ import vercel from "@astrojs/vercel";
 
 // https://astro.build/config
 export default defineConfig({
-  trailingSlash: "always",
-  build: {
-    format: "directory",
-  },
   image: {
     service: imageService(),
   },
