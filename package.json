@@ -9,9 +9,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/vercel": "^8.0.2",
-    "@unpic/astro": "^0.1.0",
-    "astro": "^5.1.6",
+    "@astrojs/vercel": "^8.0.4",
+    "@unpic/astro": "^1.0.0",
+    "astro": "^5.1.9",
     "sharp": "^0.33.5"
   }
 }
