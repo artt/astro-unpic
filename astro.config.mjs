@@ -8,5 +8,5 @@ export default defineConfig({
   image: {
     service: imageService(),
   },
-  adapter: netlify(),
+  // adapter: netlify(),
 });
